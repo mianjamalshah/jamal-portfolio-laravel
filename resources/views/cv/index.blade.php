@@ -1,6 +1,9 @@
 @extends('layouts.app')
 
-@section('title', 'CV | Jamal Shah')
+@section('title', 'CV | Mian Jamal Shah')
+<link rel="icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
+<link rel="icon" href="{{ asset('favicon.png') }}" type="image/png">
+<link rel="apple-touch-icon" href="{{ asset('apple-touch-icon.png') }}">
 
 @section('extra_styles')
 <style>

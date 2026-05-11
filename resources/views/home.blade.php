@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Jamal Shah | Software Developer Portfolio')
+@section('title', 'Mian Jamal Shah | Software Developer Portfolio')
 
 @section('extra_styles')
 <style>
