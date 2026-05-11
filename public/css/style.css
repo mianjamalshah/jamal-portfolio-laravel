@@ -482,3 +482,10 @@ main li {
     text-align: justify;
     text-justify: inter-word;
 }
+
+@media (max-width: 600px) {
+    main p,
+    main li {
+        text-align: left;
+    }
+}
