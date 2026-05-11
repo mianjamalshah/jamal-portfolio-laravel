@@ -476,3 +476,9 @@ label {
         grid-template-columns: 1fr;
     }
 }
+/* Justify main content text */
+main p,
+main li {
+    text-align: justify;
+    text-justify: inter-word;
+}
